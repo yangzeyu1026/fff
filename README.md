@@ -1,7 +1,7 @@
-# fff
-## This is my GPA for every subject.
-- *I am a stupid person*
-- *I did not try my best.*
-## I am disappointed with myself.
-- **This how I ended my college life**
-- **There are no do-overs.**
+# I am interested in JI-git-workshop.
+## It has detailed instructions about setting up git and github
+- *written by ncj*
+- *with humourous tongue*
+## It also contains python instructions
+- **written in pdf format**
+- **which is easy to understand**
